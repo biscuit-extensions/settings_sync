@@ -1,0 +1,7 @@
+[extension]
+id = "settings_sync"
+name = "Settings Sync"
+version = "0.1.0"
+description = "Synchronize settings, keybindings, and extensions across devices"
+author = "biscuit-extensions"
+icon = "icon.png"
